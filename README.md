@@ -1,2 +1,17 @@
 # CryptoBlockchain
-A lightweight blockchain implementation in Python designed to demonstrate the fundamentals of cryptocurrency systems, including mining, transaction processing, cryptographic hashing, and distributed ledger principles.
+
+A lightweight blockchain implementation written in Python.
+
+## Features
+
+- Proof-of-Work Mining
+- SHA-256 Hashing
+- Persistent Blockchain Storage
+- Transaction Processing
+- Balance Tracking
+- Chain Validation
+
+## Installation
+
+```bash
+python CryptoBlockchain.py
